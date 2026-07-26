@@ -1,0 +1,49 @@
+<section id="booking">
+
+<h2>Book Your Appointment</h2>
+
+<form id="bookingForm">
+
+<input
+type="text"
+id="name"
+placeholder="Full Name"
+required>
+
+<input
+type="tel"
+id="phone"
+placeholder="Phone Number"
+required>
+
+<select id="service">
+
+<option>Brush Cut + Dye - R40</option>
+
+<option>Styles Cut - R50</option>
+
+<option>Taper Fade - R60</option>
+
+<option>Burst Taper Fade - R80</option>
+
+</select>
+
+<input
+type="date"
+id="date"
+required>
+
+<input
+type="time"
+id="time"
+required>
+
+<button type="submit">
+
+Book via WhatsApp
+
+</button>
+
+</form>
+
+</section>
