@@ -1,0 +1,18 @@
+<section id="gallery">
+
+<h2>Our Work</h2>
+
+<div class="gallery-grid">
+
+<img src="images/cut1.jpg" alt="Haircut 1">
+<img src="images/cut2.jpg" alt="Haircut 2">
+<img src="images/cut3.jpg" alt="Haircut 3">
+<img src="images/cut4.jpg" alt="Haircut 4">
+<img src="images/cut5.jpg" alt="Haircut 5">
+<img src="images/cut6.jpg" alt="Haircut 6">
+<img src="images/cut7.jpg" alt="Haircut 7">
+<img src="images/cut8.jpg" alt="Haircut 8">
+
+</div>
+
+</section>
