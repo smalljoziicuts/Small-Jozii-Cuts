@@ -16,3 +16,36 @@
 </div>
 
 </section>
+<section id="reviews">
+
+<h2>Customer Reviews</h2>
+
+<div class="cards">
+
+<div class="card">
+⭐⭐⭐⭐⭐
+<p>
+"The fade was clean and exactly what I wanted. Highly recommend!"
+</p>
+<h3>- Happy Client</h3>
+</div>
+
+<div class="card">
+⭐⭐⭐⭐⭐
+<p>
+"Professional service and affordable prices. I'll definitely come back."
+</p>
+<h3>- Loyal Customer</h3>
+</div>
+
+<div class="card">
+⭐⭐⭐⭐⭐
+<p>
+"Best barber in the area. Great attention to detail."
+</p>
+<h3>- New Customer</h3>
+</div>
+
+</div>
+
+</section>
